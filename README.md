@@ -1,11 +1,25 @@
-## Hi, I'm Alex 👋
-
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=alexwindev alt=alexwindev/> </p>
 
-<strong>I am a Senior Web Developer.</strong>
+## Hi, I'm Alex 👋
 
-I strive while utilising both the logical and creative part of the brain. I feel most in my place while continuously operating in these roles as a full-stack developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
+I’m a Full-stack Web Developer with a passion for building visually stunning and impactful applications using cutting edge technology. I love solving problems using code, but I also enjoy sharing insights that turn coding challenges into opportunities for learning and growth for everyone involved.
 
+With all the projects that I take on, I bring high value skills, a depth of knowledge, and a mission accomplishment mindset stemming from a strong commitment to delivering exceptional results and fostering teamwork.
+
+### 🛠 Skills
+
+- **Programming Languages**: Python, JavaScript, C++, CSS, HTML, SQL  
+- **Frameworks**: Django, FastAPI, React.js, Flutter  
+- **Databases**: PostgreSQL, SQLite, MySQL, MongoDB, GraphQL, ORM  
+- **DevOps**: CI/CD, AWS, Docker, Git  
+- **Other**: Message Queues (Django-Celery, RabbitMQ), Unit testing and debugging techniques.
+
+### 🚀 Exciting Facts
+- I believe in the power of clean code and robust architecture.
+- Passionate about continuous learning and staying updated with the latest tech trends.
+- I enjoy collaborating with fellow developers to build innovative solutions.
+- "Coding is not just my job; it's my creative outlet!"
+ 
 <!--
 **alexwindev/alexwindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
