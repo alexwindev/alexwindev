@@ -12,7 +12,7 @@ With all the projects that I take on, I bring high value skills, a depth of know
 - **Frameworks**: React, Angular, Vue, Django, FastAPI, Laravel, Spring, Ruby on Rails, Flutter  
 - **Databases**: PostgreSQL, SQLite, MySQL, MongoDB, GraphQL, ORM  
 - **DevOps**: CI/CD, AWS, Docker, Git  
-- **Other**: Message Queues (Django-Celery, RabbitMQ), Unit testing and debugging techniques.
+- **Other**: OpenAI, Message Queues (Django-Celery, RabbitMQ), Unit testing and debugging techniques.
 
 ### 🚀 Exciting Facts
 - I believe in the power of clean code and robust architecture.
