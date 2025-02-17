@@ -8,8 +8,8 @@ With all the projects that I take on, I bring high value skills, a depth of know
 
 ### 🛠 Skills
 
-- **Programming Languages**: Python, JavaScript, C++, CSS, HTML, SQL  
-- **Frameworks**: Django, FastAPI, React.js, Flutter  
+- **Programming Languages**: JavaScript, TypeScript, Python, PHP, Java, Ruby, CSS3, HTML5, SQL  
+- **Frameworks**: React, Angular, Vue, Django, FastAPI, Laravel, Spring, Ruby on Rails, Flutter  
 - **Databases**: PostgreSQL, SQLite, MySQL, MongoDB, GraphQL, ORM  
 - **DevOps**: CI/CD, AWS, Docker, Git  
 - **Other**: Message Queues (Django-Celery, RabbitMQ), Unit testing and debugging techniques.
