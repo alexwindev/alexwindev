@@ -1,6 +1,6 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=alexwindev alt=alexwindev/> </p>
 
-## Hi, I'm Alex 👋
+## Greetings! ✨ 
 
 I’m a Full-stack Web Developer with a passion for building visually stunning and impactful applications using cutting edge technology. I love solving problems using code, but I also enjoy sharing insights that turn coding challenges into opportunities for learning and growth for everyone involved.
 
@@ -23,7 +23,7 @@ With all the projects that I take on, I bring high value skills, a depth of know
 <!--
 **alexwindev/alexwindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
